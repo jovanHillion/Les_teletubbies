@@ -5,11 +5,14 @@
             "patterns": [
                 "hi",
                 "who are you",
+                "how are you",
                 "hello"
             ],
             "responses": [
                 "hello uwu^^",
                 "i'm Qulbutobot, i'm a pokemon trainer",
+                "I'm good I win my battle",
+                "I'm sad I lost all my pokemon",
                 "I want a battle"
             ]
         },
