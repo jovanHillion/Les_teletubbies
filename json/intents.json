@@ -3,19 +3,20 @@
         {
             "tag": "greeting",
             "patterns": [
-                "hi",
+                "Hi trainer",
+                "Hi",
+                "Who are you stranger",
                 "who are you",
                 "how are you",
-                "hello",
-                "thank you"
+                "hello guys"
             ],
             "responses": [
                 "hello uwu^^",
+                "who you are ??",
                 "i'm Qulbutobot, i'm a pokemon trainer",
-                "I'm good I win my battle",
-                "I'm sad I lost all my pokemon",
-                "I want a battle",
-                "no problem"
+                "hi, Do you want a battle?",
+                "Hello, I'm sad I lost all my pokemon",
+                "I want a battle"
             ]
         },
         {
@@ -23,52 +24,92 @@
             "patterns": [
                 "goodbye",
                 "bye",
-                "I won",
-                "I lost"
+                "see ya"
             ],
             "responses": [
                 "Bye",
-                "you're a good chalenger",
-                "I lost, i give you some pokedollars",
-                "haha, train your pokemon, give me my money"
+                "I miss you",
+                "you're a good challenger",
+                "i give you some pokedollars",
+                "haha, train your pokemon, see you!"
             ]
         },
         {
             "tag": "pokedex",
             "patterns": [
-                "can you help me ?",
-                "Do you have a pokedex ?"
+                "Hello i'm looking for a savage pokemon",
+                "Go hunt",
+                "let's catch some pokemon",
+                "go catch",
+                "let's go",
+                "here we go"
             ],
             "responses": [
                 "of course, what do you need ?",
-                "yes i have one, i have find all pokemon of this region"
+                "i found all pokemon of this region",
+                "yaaaaa",
+                "yaaaaahahahahahhahah",
+                "i'm so excited !!!!!!",
+                "i haven't got pokeballs"
             ]
         },
         {
             "tag": "object",
             "patterns": [
-                "do you have an objects ?"
+                "do you have an objects ?",
+                "do you have some potions?",
+                "do you have some pokeballs?",
+                "do you have some bait?"
             ],
             "responses": [
-                "yes, i have enough to win any battles"
+                "yes, i have enough to win any battles",
+                "yes, i have of course",
+                "oohh no",
+                "euuuhhh I don't really thought about it"
             ]
         },
         {
-            "tag": "switch pokemon",
+            "tag": "let's battle",
             "patterns": [
-                "Do you want to switch our pokemon ?"
+                "let's battle",
+                "go battle",
+                "ready for a battle",
+                "let's train our pokemon in a battle"
+
             ],
             "responses": [
                 "why not, what's your deal ?"
             ]
         },
         {
-            "tag": "search pokemon",
+            "tag": "Money",
             "patterns": [
-                "i don't know where is this pokemon"
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "0"
             ],
             "responses": [
-                "2 min, I search on my pokedex"
+                "woaw !!",
+                "that's lot of money",
+                "I want it"
+            ]
+        },
+        {
+            "tag": "Shi-fu-mi",
+            "patterns": [
+                "Shi-fu-mi"
+            ],
+            "responses": [
+                "rock",
+                "leaf",
+                "scissors"
             ]
         }
     ]
