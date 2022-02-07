@@ -18,12 +18,14 @@
             "patterns": [
                 "goodbye",
                 "bye",
-                "I won"
+                "I won",
+                "I lost"
             ],
             "responses": [
                 "Bye",
                 "you're a good chalenger",
-                "I lost, i give you some pokedollars"
+                "I lost, i give you some pokedollars",
+                "haha, train your pokemon, give me my money"
             ]
         },
         {
