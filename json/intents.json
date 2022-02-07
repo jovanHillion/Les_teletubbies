@@ -1,0 +1,68 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hi",
+                "who are you",
+                "hello"
+            ],
+            "responses": [
+                "hello uwu^^",
+                "i'm Qulbutobot, i'm a pokemon trainer",
+                "I want a battle"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "goodbye",
+                "bye",
+                "I won"
+            ],
+            "responses": [
+                "Bye",
+                "you're a good chalenger",
+                "I lost, i give you some pokedollars"
+            ]
+        },
+        {
+            "tag": "pokedex",
+            "patterns": [
+                "can you help me ?",
+                "Do you have a pokedex ?"
+            ],
+            "responses": [
+                "of course, what do you need ?",
+                "yes i have one, i have find all pokemon of this region"
+            ]
+        },
+        {
+            "tag": "object",
+            "patterns": [
+                "do you have an objects ?"
+            ],
+            "responses": [
+                "yes, i have enough to win any battles"
+            ]
+        },
+        {
+            "tag": "switch pokemon",
+            "patterns": [
+                "Do you want to switch our pokemon ?"
+            ],
+            "responses": [
+                "why not, what's your deal ?"
+            ]
+        },
+        {
+            "tag": "search pokemon",
+            "patterns": [
+                "i don't know where is this pokemon"
+            ],
+            "responses": [
+                "2 min, I search on my pokedex"
+            ]
+        }
+    ]
+}
